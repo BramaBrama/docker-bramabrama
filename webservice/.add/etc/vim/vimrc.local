@@ -1,0 +1,9 @@
+
+" set nocompatible
+set hlsearch
+" set list
+
+syntax on
+
+highlight Comment ctermfg=LightCyan
+set showmatch

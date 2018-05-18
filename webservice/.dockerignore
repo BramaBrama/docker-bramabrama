@@ -1,0 +1,17 @@
+# .dockerignore
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+
+
+### Vim ###
+# swap
+**/.sw[a-p]
+**/.*.sw[a-p]
+**/*~
+
+**/.\#*
+**/\#*

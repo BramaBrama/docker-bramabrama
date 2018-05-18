@@ -1,0 +1,8 @@
+
+server {
+    listen 80 default_server;
+    server_name _;
+    charset utf-8;
+
+    include /etc/nginx/vhosts-resources/default/*.conf;
+}
